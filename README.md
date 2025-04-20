@@ -52,7 +52,6 @@ This project demonstrates an **Automatic Parking System** implemented using the 
 ## 🧠 Future Improvements
 
 - Add IR sensors for vehicle detection instead of manual switches.
-- Implement a parking slot counter.
 - Connect to IoT cloud for remote monitoring.
 - Add buzzer alerts or LED indicators.
 
